@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap');
+
+
+.section__title {
+    font-family: Montserrat, sans-serif;
+    font-weight: 800;
+    font-size:2.5rem;
+    text-align: center;
+}
+
+
+h1 {
+    font-family: Montserrat, sans-serif;
+    font-weight: 800;
+    font-size:42px;
+
+}
+
+.firstsection__subtitle {
+    font-family: Montserrat, sans-serif;
+    font-weight: 500;
+    font-size: calc(24px * (100vw / 1130));
+    line-height: 20px;
+}
+
+
+.firstsection__item {
+    font-family: Montserrat, sans-serif;
+    font-weight: 600;
+    font-size: calc(24px * (100vw / 1130));
+    line-height: 20px;
+}
+
+.single__item-name {
+    font-family: Montserrat, sans-serif;
+    font-weight: 800;
+    font-size: calc(24px * (100vw / 1130));
+    
+}
+
+.single__item-subtitle {
+    font-family: Montserrat, sans-serif;
+    font-weight: 500;
+    font-size: calc(24px * (100vw / 1130));
+    line-height: 20px;
+    
+}
+
+.connect__wrapper > .single__item-bio {
+    text-align: center;
+}
+
+.connect__wrapper > .single__item-bio {
+    text-align: center;
+}
+
+.faq__title {
+    font-family: Montserrat, sans-serif;
+    font-weight: 600;
+    font-size: calc(24px * (100vw / 1130));
+}
+
+
+footer {
+    font-family: Montserrat, sans-serif;
+    font-weight: 200;
+    font-size: 1rem;
+    line-height: 20px;
+}

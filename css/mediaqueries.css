@@ -1,0 +1,33 @@
+@media screen and (max-width:1199px) {
+    .firstscreen__item-wrapper {
+        flex-direction: column;
+    }
+    .firstsection__title {
+        flex-direction: column;
+    }
+    
+}
+
+@media screen and (max-width:767px) {
+    .section-4 > .container > .row {
+        gap: 15px;
+    }
+    
+}
+
+@media screen and (max-width:374px) {
+    .section__title {
+        font-size: 2rem;
+    } 
+    .firstscreen__second > img {
+        max-width: 200px;
+    }
+    
+}
+
+@media screen and (max-width:320px) {
+    .section__title {
+        font-size: 1.5rem;
+    } 
+    
+}
